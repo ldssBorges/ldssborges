@@ -25,10 +25,6 @@
 <img src="https://streak-stats.demolab.com?user=ldssborges&theme=sea&hide_border=true&background=0D1117&sideNums=00BFBF&currStreakNum=00BFBF&ring=31DD37&fire=2DFF15&sideLabels=79FFFA&dates=FFFFFF&currStreakLabel=79FFFA&stroke=2B53C9"/>
 </p>
 
-
-
-
-
 ## <br />💻 Languages and Tools:
 <div style="display: inline_block"><br>
   <img align="center" alt="Leonardo-DotNet" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
