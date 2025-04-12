@@ -4,7 +4,7 @@
 - 🌱 Always studying .Net / Sempre Estudando .Net
 - 📖 I like read Books and Mangas/ Eu gosto de ler livros e mangas
 
-- Currently studying React / Atualmente estudando 
+- Currently studying React / Atualmente estudando React
 
 ## 📋 GitHub Analytics:
 
