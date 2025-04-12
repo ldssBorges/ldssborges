@@ -6,14 +6,6 @@
 
 - Currently studying React / Atualmente estudando 
 
-## <br /> 🌎 Views:
-<br>
-
-<p align="center">
-  <img width="300" src="https://profile-counter.glitch.me/ldssborges/count.svg" />
-<p/>
-
-
 ## 📋 GitHub Analytics:
 
 <div align="center">  
